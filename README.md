@@ -23,6 +23,9 @@ See [`audit-checklist.md`](./audit-checklist.md) for details.
 - Optional scan with ClamAV or mock logic
 - Organized file storage per user
 
+🤝 Contributions
+Open to improvements — better file validation, storage logic, or scan integrations welcome.
+
 ## 🚀 Getting Started
 
 ```bash
@@ -34,5 +37,4 @@ pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
 
-🤝 Contributions
-Open to improvements — better file validation, storage logic, or scan integrations welcome.
+
